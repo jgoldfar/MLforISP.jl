@@ -1,7 +1,7 @@
 __precompile__()
 module MLforISP
 
-using Compat
+# using Compat
 
 ##-------------------------------------------------------------------------------
 #export
